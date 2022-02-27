@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lying-vvonders, or rather the vvonderful-lyes, which was lately published to the world, in a lying-pamphlet, (called Strange and true news from Gloucester) containing a relation of the wonderful power of God, shewed for injustice at Fairford, by frogs and toads; and in the sudden death of the Clarks daughter at Brokington in Gloucestershire. Presented to the view of the world, with some observations in the end on another such like pamphlet (The Lords loud call to England) I. That the subtilty of deluders may be discerned. II. That the simple may from their delusions be preserved. III. That the lovers of truth may be strengthned. IV. That all men about these wonders may be satisfied. By Robert Clark, minister of Gods Word in Norleach.</title>
+            <author>Clark, Robert, minister at Norleach.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79880</idno>
+            <idno type="STC">Wing C4488</idno>
+            <idno type="STC">Thomason E1045_5</idno>
+            <idno type="STC">ESTC R207952</idno>
+            <idno type="EEBO-CITATION">99866966</idno>
+            <idno type="PROQUEST">99866966</idno>
+            <idno type="VID">119255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119255)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lying-vvonders, or rather the vvonderful-lyes, which was lately published to the world, in a lying-pamphlet, (called Strange and true news from Gloucester) containing a relation of the wonderful power of God, shewed for injustice at Fairford, by frogs and toads; and in the sudden death of the Clarks daughter at Brokington in Gloucestershire. Presented to the view of the world, with some observations in the end on another such like pamphlet (The Lords loud call to England) I. That the subtilty of deluders may be discerned. II. That the simple may from their delusions be preserved. III. That the lovers of truth may be strengthned. IV. That all men about these wonders may be satisfied. By Robert Clark, minister of Gods Word in Norleach.</title>
+                  <author>Clark, Robert, minister at Norleach.</author>
+               </titleStmt>
+               <extent>[12], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In response to: "Strange and true newes from Glocester" and Jessey, Henry, "The Lords loud call to England".</note>
+                  <note>Annotation on Thomason copy: "Sept. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jessey, Henry, 1603-1663. --  Lords loud call to England.</term>
+               <term>Strange and true newes from Glocester.</term>
+               <term>God --  Attributes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119255:1" rendition="simple:additions"/>
+            <p>THE Lying-VVonders, OR RATHER THE Wonderful-Lyes, WHICH WAS LATELY Publiſhed to the World, in a Lying-Pamphlet, (called <hi>Strange and True News from Glouceſter</hi>) Containing a Relation of the wonderful power of God, ſhewed for Inju<g ref="char:EOLhyphen"/>ſtice at <hi>Fairford,</hi> by Frogs and Toads; And in the ſudden death of the Clarks Daughter at <hi>Brokington</hi> in <hi>Glouceſterſhire.</hi>
+            </p>
+            <p>Preſented to the view of the World, with ſome Obſervations in the end on another ſuch like Pamphlet <hi>(The Lords loud Call to England)</hi>
+            </p>
+            <list>
+               <item>I. That the ſubtilty of <hi>Deluders</hi> may be diſcerned.</item>
+               <item>II. That the ſimple may from their deluſions be preſerved.</item>
+               <item>III. That the Lovers of Truth may be ſtrengthned.</item>
+               <item>IV. That all men about theſe Wonders may be ſatisfied.</item>
+            </list>
+            <p>By ROBERT CLARK, Miniſter of Gods Word in <hi>Norleach.</hi>
+            </p>
+            <p>
+               <hi>Fidei perfidia Error Veritati cedat.</hi>
+            </p>
+            <q>
+               <p>If any man ſhall ſay unto you, Lo, here is Chriſt, or there; beleeve it not: for there ſhall ariſe falſe Prophets, and ſhall ſhew great ſigns and wonders,
+<bibl>
+                     <hi>Matth. 24.23, 24.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Their coming is after the working of Satan, with all power, and ſigns, and lying wonders,
+<bibl>
+                     <hi>2 Theſſ. 2.9.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119255:2"/>
+            <pb facs="tcp:119255:2"/>
+            <head>TO THE WORSHIPFUL <hi>Andrew Barker</hi> and <hi>William Oldiſworth,</hi> Eſquires.</head>
+            <head>
+               <hi>Grace, Health,</hi> and <hi>Happineſſe</hi> be multiplyed.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>O long as the enmity laſteth, betwixt the ſeed of the woman and the Serpent, ſo long muſt the Godly, (though mirrours of piety and grace) be ſubject to wicked mens unjuſt moleſtation, <hi>for the Juſt ſhineth, as lights in the midſt of a crooked Generation;</hi> and the tongues of wicked men (the lying off-ſpring of the father of lyes) are un<g ref="char:EOLhyphen"/>der ſuch command of Satan, to act this reſtleſſe malice againſt the truth and holy Religion, both in Doctrine and practiſe, that Godly men cannot expect to have their names free from reproa<g ref="char:EOLhyphen"/>ches.</p>
+            <p>It is no wonder then, that I find your names, (worthy and ever Honoured Friends) which (no doubt) are written in the book of life, and whom good men honour, abuſed upon Record, by one of Satans Emiſſaries, who ſeeketh to bring about the bad cauſe he hath in handling, by ſuch bad and wicked means, as ſhamefull lyes. The which, the leſſe ground and colour of truth they have, with the more clamor and impudency, he thruſteth forward into the world, endeavouring thereby (as if he were the firſt born of Satan) without all ſhame and fear, to darken the bright and ſhining light of your clean and unſpotted Converſations.</p>
+            <pb facs="tcp:119255:3"/>
+            <p>That Leſſon which the Devil taught his apt Scholar <hi>Machiavel (Calumniare audacter aliquid ſultem haerebit)</hi> he hath perfectly learned; by confidently belying you, he hopes to fling ſome dirt of reproach in your faces, and that not only, becauſe ye run not with him and his followers, but alſo, to make others to run wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h them, to the ſame exceſſe of riot, of licentious Doctrines and practiſes, againſt the Faith that was once delivered to the Saints.</p>
+            <p>What advantage Satan hath gotten in this age, as well as in other ages, by the ſtrength of Lyes, to bring Gods Truths and our Holy Religion into ſuſpition and diſgrace, may be ſeen by the eaſie entrance that Calumnies make in the corrupt minds of men of theſe times, who will hardly be diſpoſſeſſed of ſuch preju<g ref="char:EOLhyphen"/>dice.</p>
+            <p>Faction and Schiſme, being maintained by works of darkneſſe, and unconſcionable deceits, the multitude are ready to drink in the venome thereof out of a Cup of Lyes, the which they greedi<g ref="char:EOLhyphen"/>ly catch, and ſwallow down, though to the poyſoning of their ſoules.</p>
+            <p>It hath amazed me to conſider how a lying Pamphlet will amaze the poore ignorant people of the Land, nay put men of more ſetled judgements at a ſtand; Nay did I not know the pro<g ref="char:EOLhyphen"/>bate of it, by ocular and experimental demonſtrations, I could never have brought my underſtanding to beleeve, that ſuch groundleſſe lyes, as this Pamphlet contains (called <hi>Strange and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rue Newes from Glouceſterſhire</hi>) ſhould have ſuch a vent of be<g ref="char:EOLhyphen"/>lief in the hearts of men as they have.</p>
+            <p>Alas! That ever men in their wits, ſhould believe ſuch un<g ref="char:EOLhyphen"/>truths, and yet they do; Though the wonders expreſſed therein be <hi>Lying-Wonders;</hi> and that,</p>
+            <p>Firſt, In their Original, as proceeding from the Father of lyes.</p>
+            <p>Secondly, In their matter being bottomleſſe and groſſe falſi<g ref="char:EOLhyphen"/>ties.</p>
+            <p>Thirdly, In their end, which is lying and ſeduction: Yet the Current of them are ſo ſwift and dangerous, as greatly needeth to be ſtopt by ſome Sluce of contradiction.</p>
+            <p>I therefore having ſome experimental knowledge of you (my
+<pb facs="tcp:119255:3"/>ever Honoured Friends) and the ſpreading infection of theſe lyes, which are ſcattered to eclipſe your worthes, and to advance ſepa<g ref="char:EOLhyphen"/>ration, thought it my duty to ſtop the mouth of this <hi>Detractor,</hi> who with impudent face, and ſeared conſcience, hath out-faced the world, by publiſhing to the world this <hi>Short and ſudden Narra<g ref="char:EOLhyphen"/>tive;</hi> being a plaine refutation of the Lyes therein contained, and a right demonſtration of the truth of the matter, not only, to un<g ref="char:EOLhyphen"/>deceive deluded poor ſouls, by acquainting them with the ſubtil<g ref="char:EOLhyphen"/>ty of theſe <hi>Impoſtors,</hi> and to preſerve others out of the ſnares of ſuch Serpents; but to preſerve alſo the preciouſneſſe of your names in the hearts of all good men, which the <hi>Relator</hi> ſetteth up as Buts to ſhoot his lying Arrows againſt, thinking thereby to wound your unblemiſhed Reputations; that thoſe honoured names of yours, which like a precious Oyntment doth not only perſume your own houſes, nay your Town of <hi>Fairford,</hi> but ſendeth forth a ſweet ſavor to all that know you, or ever heard of you, might not be (like the precious Oyntment of the Apothecary) corrupted with any dead Flies of ſlanderous, and lying reports.</p>
+            <p>And if I may be thought of you to preſume too much herein, I beg both your pardons, becauſe this action proceedeth meerly from the paſſion of love; And all ſuch actions (according to the Lawyers poſition) are not lyable to Law, at leaſt pardonable in reſpects.</p>
+            <p>Pardon therefore I humbly beſeech you, this action of mine, which proceedeth from the love I owe to God, whoſe Glory I ought to advance; To the Church in general, of which I am a Member; to my Mother Church of <hi>England,</hi> of which I am a du<g ref="char:EOLhyphen"/>tiful Son, to your Town of <hi>Fairford,</hi> as having ſpent ſome time in the execution of my Miniſterial Office therein; to your ſelves and relations, whoſe Chriſtian ſtedfaſt walking through theſe un<g ref="char:EOLhyphen"/>ſetled times, I have with much comfort and benefit been an ob<g ref="char:EOLhyphen"/>ſerver, whoſe ſtedfaſt, pure, and holy converſation in theſe delu<g ref="char:EOLhyphen"/>ding times, have not only ſtrengthned your own aſſurances for the hope of happineſſe, but have been props to them that live under you, dwell by you, and converſe with you, to keep them from Apoſtacy, and Spurs to further their Chriſtian race, provoking them by your pious examples, to preſſe the more towards the ſame glorious marke.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119255:4"/>
+            <p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>comb, <hi>by the holding up of the Piſtol at her, and the uncivill Lan<g ref="char:EOLhyphen"/>guage given her (the Truth of which I doubt of,</hi>
+               <note place="margin">Page 18.</note> 
+               <hi>unleſſe it was provoked by her uncivill Language) received ſuch Terror, as brought upon her, ſuch a ſore diſtemper, and brought her nigh unto Death: but it was rather, the ſtrange Newes of the Kings returne, by a Vote from Parliament, againſt whom, and his loyall Subjects and Miniſters, the ſaid Mr.</hi> Helme <hi>had highly acted; which made both their hearts ſicke, and ſuddenly to remove from</hi> Winch<g ref="char:EOLhyphen"/>comb <hi>(contrary to his often Engagement in his Pulpit, to his ſelected people, to live and die with them, notwithſtanding the higheſt ſuf<g ref="char:EOLhyphen"/>ferings) and to act the part now of a loyall ſubject, upon ſome other Theater, as it is not the firſt time he hath done it.</hi>
+            </p>
+            <p>
+               <hi>As true likewiſe,</hi>
+               <note place="margin">Page 17.</note> 
+               <hi>as thoſe Souldiers (ſome whereof were emi<g ref="char:EOLhyphen"/>nent Gentlemen of the County) who did in purſuance of their order from the Commiſſioners, upon that change of Government, endea<g ref="char:EOLhyphen"/>vour to diſarme the</hi> Fanatickes) <hi>did rudely ranſacke any for Armes, or act any way ſo barbarouſly as to be ſtiled,</hi> The imbittered perſe<g ref="char:EOLhyphen"/>cutors in the County; <hi>when, their civill demeanours to all places, and perſons, were ſuch as procured no other returnes but flouts and Jeeres for their civilities, when they were just reproofes of the o<g ref="char:EOLhyphen"/>thers vile carriages, not long before when the power was in their hands; The Rudeneſſe of whom, Two Famous Families in our Coun<g ref="char:EOLhyphen"/>ty of</hi> Gloceſter <hi>have cauſe to remember, as Sir</hi> Henry Fredericke Thinne, <hi>and his Lady, who were plundered not onely in the grounds and ſtables of their, and other mens Horſes, but in their cloſets of their ſweet-meats, ſo that it is no marvell that their Prophets have ſuch ſweet Tongues; and Mr.</hi> John How, <hi>and his Honourable La<g ref="char:EOLhyphen"/>dy, whoſe very perſons endured a tedious reſtraint, beſide; the loſſe of all his Horſes, and impriſonment of his ſervants, and loſſe of his Eſtate too, had not our Soveraigne Lord the King come in for his Freedome.</hi>
+            </p>
+            <p>
+               <hi>As true,</hi>
+               <note place="margin">Page 2.</note> 
+               <hi>as our former dayes under the uſurped Government, were times of Reformation,</hi>
+               <note place="margin">Page 1.</note> 
+               <hi>and that ſome in</hi> Oxford <hi>were cut off for reading the Booke of Common-prayer, and that the Societies from whence thoſe that are impriſoned at</hi> Redding,
+<note place="margin">Page 25.</note> 
+               <hi>for Refuſing the Oaths of Supremacy and Alleagiance, are the more chearfull and the more increaſed.</hi>
+            </p>
+            <p>
+               <hi>As true,</hi>
+               <note place="margin">Page 43.</note> 
+               <hi>as the death of twenty or thirty Doggs at</hi> Graves-end
+<pb facs="tcp:119255:4"/>
+               <hi>on the Kings Proclamation day, was a Judgement of God for pro<g ref="char:EOLhyphen"/>claiming the King.</hi>
+            </p>
+            <p>
+               <hi>Laſtly, As true as Not Loyall Subjects, and Orthodox Mini<g ref="char:EOLhyphen"/>ſters, but ſuch as profeſſe diſloyaltie to Soveraignty,</hi>
+               <note place="margin">Page 4.</note> 
+               <hi>and ſeperation from the Church of</hi> England, <hi>be the onely people of God.</hi>
+            </p>
+            <p>
+               <hi>For my own part, I am glad, That the Seducer hath no other foundation left him then lying wonders to build their</hi> Babel <hi>of</hi> Con<g ref="char:EOLhyphen"/>fuſion <hi>on, and that the Towne of</hi> Fairford <hi>have no more to render them odious to the world then A PECKE full of Lies.</hi>
+            </p>
+            <p>
+               <hi>Let the Seducer Boast of the hand of God apparently gone out for them, and their wayes, Not an eſtabliſhed Christian, that have read and ſtudied the providences of God in theſe changes of Times, and Affaires, but may ſee the Hand of God apparently gone out a<g ref="char:EOLhyphen"/>gainſt all wayes of Separation; Their Counſells diſſipated, their De<g ref="char:EOLhyphen"/>ſignes Blaſted, and thoſe perſons that have acted high againſt order, and Government in Church, and State,</hi>
+               <note place="margin">Pſal. 9.16.</note> 
+               <hi>ſnared in the workes of their owne hands; ſo that, notwithſtanding the Crying up of the hand of God, by way of execution of Judgement in their new coy<g ref="char:EOLhyphen"/>ned Lyes, God is certainly knowne in the Judgement that he hath executed; ſo that notwithſtanding, that paſſage in the Letter that was written of that Mr.</hi> Fletchers <hi>abuſe by</hi> J.D. <hi>who was no</hi> Mini<g ref="char:EOLhyphen"/>ſter <hi>at</hi> Badgington, <hi>but</hi> Cutler <hi>at</hi> Gloceſter,
+<note place="margin">Page 19.</note> (That Judgement is begun at the houſe of God) <hi>we will leave it to be interpreted by the Tongue of Magiſtracy, whoſe eye looketh over them, and us, who no doubt will tell us in ſome ſhort Time, what will be expected of them, that</hi> neither owne, or obey the Goſpel of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            <p>
+               <hi>Surely, God hath mingled a perverſe ſpirit in the middeſt of us,</hi>
+               <note place="margin">Page 19.</note> 
+               <hi>we have been ſold for nought, and they that have ruled over us, have oppreſſed us very ſore: The Bowels of our God are at this Time moved, his repentings are kindled together; The Salvation of</hi> Iſ<g ref="char:EOLhyphen"/>rael <hi>is come (we hope) out of</hi> Sion; <hi>For God hath ſo turned the Captivity of his poore afflicted Church, that for the ſuddenneſſe and ſtrangeneſſe thereof</hi> wee become like unto men that dreame;
+<note place="margin">Pſal. 126.2.</note> fil<g ref="char:EOLhyphen"/>ling our Mouthes with laughter, and our tongue with Singing:
+<note place="margin">Pſal. 44.4.</note> 
+               <hi>So that the Lord our King hath commanded deliverances for us his people.</hi>
+            </p>
+            <pb facs="tcp:119255:5"/>
+            <p>Now we know that the Kingdome is the Lords, and that he is Governour among the Nations: Now we know that the Lord ſaveth his Anoynted, having heard him from his Holy Heaven, with the ſaving ſtrength of his right hand. Surely Salvation is nigh unto us his people, that glory may again dwell in our Land.</p>
+            <p>Let the houſe of <hi>Iſrael</hi> (the Common-wealth) truſt in the Lord, and bleſſe the Lord, who is our Help and our Shield.</p>
+            <p>Let the houſe of <hi>Aaron</hi> (the Governours of the Common<g ref="char:EOLhyphen"/>wealth) truſt in the Lord, and bleſſe the Lord, who is their Help and their Shield.</p>
+            <p>Let the houſe of <hi>Levi</hi> (the Miniſters of the Lord) truſt in the Lord, and bleſſe the Lord, who is their Help and their Shield.</p>
+            <p>Let all them that fear the Lord, truſt in the Lord, and bleſſe the Lord, who is their Help and Shield.</p>
+            <p>
+               <hi>The Lord make all Deluders to mark that doom which</hi> St. Peter <hi>tells them,</hi> 2 Pet. 2.1. Who for bringing in privily damnable He<g ref="char:EOLhyphen"/>reſies, <hi>(without repentance)</hi> will bring upon themſelves ſwift de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>
+               <hi>The Lord open the eyes of all ſuch as are deluded, or ſubject to de<g ref="char:EOLhyphen"/>luſion, that they may</hi> mark them which cauſe diviſions and offen<g ref="char:EOLhyphen"/>ces, contrary to the Doctrine which they have received, and to avoid them, <hi>Rom.</hi> 16.17.</p>
+            <p>
+               <hi>The Lord ſo unite the hearts of His</hi> Majeſties <hi>Loyal Subjects, that differ not ſo much in Doctrine as in Diſcipline, that by their unſeaſonable Differences, they give not advantage to Deluders, who daily wait for it, threatning the better uſe of it then hath been made of former advantages, who will then appear to the Kings Loyal Sub<g ref="char:EOLhyphen"/>jects, and the true ſons of the</hi> Church <hi>of</hi> England, <hi>worſe then the Frogs of</hi> Fairford, <hi>that (as they fained them) troubled only the houſe of the Lords of the Town, and the Juſtice adjacent, like the Frogs of</hi> Aegypt, <hi>that covered the Land ſparing not the Kings chamber: worſe then thoſe ſwarms of Flies, that covered (as they fained them) (though only ſeen in the Orchard) the Garden of the Lords of the Town, but like the ſwarms of Flies wherewith the</hi> Aegyptians <hi>were
+<pb facs="tcp:119255:5"/>plagued, which like the unmerciful Tyrants which God threatned to wicked men, night nor day ſhall give any reſt.</hi>
+            </p>
+            <p>
+               <hi>But the Lord we hope who hath a mighty arm, a ſtrong hand, and high right hand, which hath brought ſuch mighty things to paſſe, in giving great deliverance to our King, by ſtilling of the tumults of the people, and preſerving him from the violence of thoſe aſſemblies of wicked men, and cauſing the captivity of his Loyal Subjects to re<g ref="char:EOLhyphen"/>turn, will ſo order the affairs of this Nation by his providence for good, that the enemy (that is now enraged through Gods croſſe diſ<g ref="char:EOLhyphen"/>penſations to them, breathing out ſuch notorious lyes (as thick miſts) to darken the way of his providence over his</hi> Church <hi>and People) may no more magnifie himſelfe, but under the protection of the All<g ref="char:EOLhyphen"/>mighty,</hi> (who is our Rock, our Shield, and a wall of fire about his Church) <hi>and under the ſhadow of our Moſt Gracious</hi> Soveraign (<hi>who under God is the breath of our Noſtrils, the Light of his poor</hi> Iſrael, <hi>the Repairer of our breaches, the Reſtorer of our decayed pathes, nay</hi> Pater patriae, <hi>The Father of our</hi> Country) <hi>may live happily. Into the hands of the which Allmighty God, the King of Kings, who have the hearts of all men, and the events of all things under his Rule and Governance, and into the hands of our moſt Gracious</hi> Soveraign, <hi>with thoſe Renowned Worthies in</hi> Parliament, <hi>who are but Gods inſtru<g ref="char:EOLhyphen"/>ments for the effecting of his deſigns; I, with all the Lords People, do commend this poor diſpiſed</hi> Church, <hi>and diſtracted</hi> State, <hi>waiting in hope for that time, when through Gods providence, and their pru<g ref="char:EOLhyphen"/>dence the</hi> Church <hi>of</hi> England, <hi>which through lyes, errors, and diviſi<g ref="char:EOLhyphen"/>ons, now ſeemeth to be diſfigured like the Daughter of Antichriſt; ſhall through an eſtabliſhed Government ſhine like the</hi> Spouſe <hi>of</hi> Chriſt; <hi>and this</hi> Common-wealth of England, <hi>with all other of His</hi> Majeſties <hi>Kingdomes and Dominions, which have long lain among the Pots, be brought forth at laſt with ſilver Wings, and be made the glory of all Lands, which is the deſire, as well as the hope of him who wiſheth well, not only to the peace of our</hi> Jeruſalem, <hi>both</hi> Church and State, <hi>but to thy Soul.</hi>
+            </p>
+            <pb facs="tcp:119255:6"/>
+            <p>
+               <hi>The Lord eſtabliſh thee according to his Goſpel, and keep thee from falling, and preſent thee faultleſſe before the preſence of his glory, with exceeding joy.</hi>
+            </p>
+            <closer>
+               <signed>This is the deſire of Thy Friend in the ſervice of thy Faith, <hi>R. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119255:6"/>
+            <head>THE LYING WONDERS, <hi>Or rather</hi> THE WONDERFULL LIES of <hi>Gloceſter-ſhire</hi> diſcovered.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here Chriſt and his Goſpel cannot prevaile, there the Devill, being armed with power, and efficacie of Deluſion, commeth and prevaileth; the Soule of man, being ſuch a Tenure, as cannot want an Oc<g ref="char:EOLhyphen"/>cupier.</p>
+            <p>No ſooner Gods Spirit departed from <hi>Saul,</hi> but preſently the evill ſpirit commeth upon him; ſo no ſooner, men caſt out of their hearts the love of the truth, but the beliefe of lyes will enter, and take poſſeſſion; if they once <hi>depart from the Faith,</hi>
+               <note place="margin">1 Tim. 4.1.</note> they will preſently give heed to <hi>Seducing Spirits,</hi> 1 Tim. 4.1.</p>
+            <p>Our preſent Age is a Theater, whereon (with ſome) Lyes are acted more then Truth; which is a ſigne, they Love Lyes more then Truth, nay preferre lyes before it, who employ their minds to deviſe Lyes, their tongues to ſpeake Lyes, and their hands (by writing) to ſpread them, as if they were the very children of the Devill, given up to the Father of Lyes.</p>
+            <p>The Devill for craft, and cunning, is called the Serpent, the old Serpent, who deceiveth the whole world, and his ſubtilty he ſheweth, by tranſlating himſelfe, though he be a <hi>Devill of Dark<g ref="char:EOLhyphen"/>neſſe,</hi> into an <hi>Angel of Light:</hi> and in the ſhape of a Serpent he beguiled <hi>Eve.</hi>
+            </p>
+            <p>What a world of men have learned this Art, from their Fa<g ref="char:EOLhyphen"/>ther the Devill? who are as cunning growne, as the Devill him<g ref="char:EOLhyphen"/>ſelfe to deceive, and may as well be called Serpents, as the De<g ref="char:EOLhyphen"/>vill;
+<pb n="2" facs="tcp:119255:7"/>and to this end (<hi>Protheus</hi> and <hi>Camelion</hi>-like) they can ſhift themſelves into any ſhape; where Lyons skins will not ſerve, they can uſe the Foxes Taile: We know that the beſt Drugs have their Adulterates; The moſt current coines their clips: Hypocrites can eaſily cloake, their worſt intentions, with the beſt religion; and therefore, no wonder it is to ſee them, put on the rare, and excellent Jewel of Grace, to Grace themſelves with<g ref="char:EOLhyphen"/>all; that under the ſemblance of pietie, they may bring about their horrid deſignes.</p>
+            <p>Oh the Hypocriſie of this age! The Myſtery of iniquity doth buſily worke amongſt us; The Impoſtor beſtirres himſelfe, be<g ref="char:EOLhyphen"/>ing with his Father the Devill, come downe with great wrath, knowing that he hath but a ſhort time, <hi>Rev.</hi> 12.12. What a Great Miſt of darkneſſe, of blacke darkneſſe, hath he raiſed, and doth dayly raiſe to obſcure the bright Sun of grace? he knoweth, he cannot now by open force deſtroy the Church, and therefore ſtriveth to cloud the beautie of the Church, from the eyes of the world, by damnable and helliſh untruths; That thereby he may beguile the ſimple, into the wayes of Seperation, from the <hi>Church of England;</hi> that thereby they may be led into errour, and held therein at his pleaſure.</p>
+            <p>Oh what ſenſleſſe, bottomleſſe, and Groſſe Lyes, are raiſed by Sectaries, to keepe men from our publicke Aſſemblyes! and to allure them, to joyne with them, in their private Conventicles! and what a ſtrange, and incredible beliefe of them, is there en<g ref="char:EOLhyphen"/>tertained in the world! How this <hi>Engliſh</hi> Nation, who have ever profeſſed themſelves, to be the <hi>Defenders of the Truth,</hi> is at this time deceived with a Cup of error; we may plainly ſee, by the entertainment, that One Lying Pamphlet, hath at this time, in the ears and hearts of men that live at a diſtance, which is lately thruſt forth in Print by ſome deluder, ſtiled, <hi>(Strange and True Newes from Gloceſter.)</hi> The which Pamphlet <hi>(Chriſtian Rea<g ref="char:EOLhyphen"/>der)</hi> I doe here cry downe; aſſuring thee, That it is but the in<g ref="char:EOLhyphen"/>vention of ſome vile deluder, who would wound thy Chriſtian Faith, under pretext of Chriſtian Faith; and under a profeſſion of Friendſhip, prove thy Great Adverſary.</p>
+            <p>We all know, that open Miſchiefe, is eaſier to be avoyded, and prepared for, then that which is more ſecret, and undiſcerna<g ref="char:EOLhyphen"/>ble;
+<pb n="3" facs="tcp:119255:7"/>and the death of the Soule, is a worſer death then the death of the bodie: Therefore (as a True Miniſter of the Goſpel, that wiſheth well to the ſoules of all men) have I ſet up <hi>This my Light,</hi> to keepe men out of thoſe ſecret pits, which are digged, and thoſe indiſcernable ſnares, that are layd for their ſoules; Which though I know, will be moſt unwelcome to the <hi>Sepera<g ref="char:EOLhyphen"/>tiſts,</hi> being men of giddy ſpirits, and impotent prejudices, againſt any thing ſettled, either by civill, or Eccleſiaſticall Conſtitutions, and Cuſtomes in Church and State, to whom I ſhall be as <hi>Mi<g ref="char:EOLhyphen"/>chaiah</hi> to <hi>Ahab;</hi> Yet, I hope, it will find Acceptance with thee, and all ſuch as profeſſe themſelves to be Lovers of Truth, and haters of Lyes, and love and deſire the proſperity of this our <hi>Sion,</hi> both Church and State.</p>
+            <p>And if you pleaſe to follow my Light, it will direct Thee <hi>(Reader)</hi> unto;</p>
+            <list>
+               <item>1. The Notorious Lyes, that are in the Inſcription of the Pamphlet.</item>
+               <item>2. The Monſtrous Falſe Newes encloſed.</item>
+               <item>3. The Groſſe Hypocriſie of the Author in the Conclu<g ref="char:EOLhyphen"/>ſion.</item>
+            </list>
+            <div n="1" type="part">
+               <head>Firſt, Concerning the Inſcription.</head>
+               <p>The Title of the Pamphlet, is this; <hi>[Strange and True Newes from Gloceſter];</hi> Tis ſtrange, but not true, and it would have been ſtrange Newes indeed, had it been true.</p>
+               <p>
+                  <hi>From Gloceſter]</hi> I verily beleeve, the Author doth highly A<g ref="char:EOLhyphen"/>buſe that Famous City, by making it the fountaine of thoſe lyes; and this is not the firſt time that that City hath been thus abuſed by ſuch Deluders: who for the more generall, and ſpeedier vent of their deluſions, and for the more generall, and eaſier beliefe of them, maketh their lyes to take riſe from thence; But I dare acquite <hi>Gloceſter</hi> of the coyning of theſe Lyes; There be ſeverall Mints out of <hi>Gloceſter,</hi> as <hi>Ciciſter, Fairford, Stow, Burton</hi> on the water, <hi>Kemp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford,</hi> and <hi>Norleach,</hi> where are men as famous, for the promoting of ſuch coyne, as at <hi>Gloceſter;</hi> and indeed the very impreſſion on the coyne (though the Author concealeth his Name) giveth to many hereabouts, a manifeſt Gueſſe, who was the coyner thereof.</p>
+               <pb n="4" facs="tcp:119255:8"/>
+               <p>But what is the Newes?</p>
+               <p n="1">1. <hi>A perfect Relation,</hi> of the wonderfull and miraculous power of God, ſhewed for Injuſtice at <hi>Fairford,</hi> by an Innumera<g ref="char:EOLhyphen"/>ble Company of Froggs and Toads.</p>
+               <p n="2">2. A Great and Terrible Earth-quake, the Running of Blood, and Hail-ſtones of a pound and an halfe weight in <hi>France.</hi>
+               </p>
+               <p n="3">3. The wonderfull Example of Gods Juſtice, in the ſudden death of the Clarks Daughter of <hi>Brokington,</hi> in <hi>Gloceſter-ſhire.</hi>
+               </p>
+               <p>Obſerve the Workings of this Serpent, which is after the working of Sathan, with all power, and ſignes, and Lying Won<g ref="char:EOLhyphen"/>ders, 2 <hi>Theſ.</hi> 2.9. The relation of which he calleth a perfect Relation; though every ſtring in his Relation be out of Tune, he would not have his muſicke to ſound amiſſe, which diſcovereth the Author to be of the ſeed of a Serpent
+<note n="*" place="margin">Serpentina Soboles.</note>: whoſe wayes of un<g ref="char:EOLhyphen"/>dermining of Gods Church, is as the way of a Serpent on a Rocke unknowable, <hi>Pro.</hi> 30.19. When they cannot ſuppreſſe it by force and crueltie, they will undermine it if they can, by craft and lyes: Though the Relation be altogether counterfeit coyne, yet it muſt paſſe for currant.</p>
+               <p>And that it may ſo, The Author (as a chiefe Emiſſary of Sa<g ref="char:EOLhyphen"/>than) courts the worlds Beliefe of it, with a knowne impudent Lye; calling the <hi>Relation,</hi> not only <hi>a perfect Relation,</hi> but telling us, <hi>That the Relation is entred according to Order;</hi> The which <hi>Or<g ref="char:EOLhyphen"/>der,</hi> he would have us beleeve, to be from the preſent power at <hi>Weſtminſter,</hi> when it is from the Court of Hell; but no queſti<g ref="char:EOLhyphen"/>on, the printing of theſe lyes, were like his daily walking, <hi>Diſ<g ref="char:EOLhyphen"/>orderly;</hi> ſo that if the Inſcription ſtumble, and fall from Truth, what encouragement have we to thinke, that the Newes enclo<g ref="char:EOLhyphen"/>ſed, will ſtand upright?</p>
+               <p>I confeſſe, for the <hi>French</hi> Newes, I had rather beleeve, then
+<note n="*" place="margin">The Author is lame.</note> Travell, to find out the certaintie of it: but for our <hi>Gloceſter<g ref="char:EOLhyphen"/>ſhire</hi> Newes, I have weighed in a Ballance, by a ſtrict inquirie, and find them (notwithſtanding this Faire Colour, the Author hath drawne over it, in calling <hi>a perfect Relation)</hi> Groſſe Lyes; The which (let the Author be what he will) muſt needs proceed from a man of an evill Conſcience, though he hath not ſuch an impudent Face to prefix his name to it.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:119255:8"/>
+               <head>Secondly; Concerning the Monſtrous falſe Newes incloſed.</head>
+               <p>THat Great and heavie Judgements of God have attended thoſe that have reviled, and injured <hi>Gods choſen people</hi> (as the Author beginneth his Newes) Thoſe Scriptures alledged by him, 2 <hi>Kings</hi> 2.23, 24. &amp; <hi>Exod.</hi> 7, 8, 9, 10, 11, 12. &amp; 14 Chapters, are ſufficient Teſtimonies.</p>
+               <p>But who the Author meaneth, by <hi>Theſe his choſen people;</hi> and how the Froggs and Toads at <hi>Fairford,</hi> and the death of the Maid at <hi>Brokington,</hi> may be ſaid to be <hi>Gods Judgements</hi> on the Revilers of thoſe his choſen people, craveth our inquirie.</p>
+               <p>No queſtion, by <hi>[Theſe his choſen people]</hi> the Author mean<g ref="char:EOLhyphen"/>eth the Company of Chriſtians (as if all the reſt of the Towne were Heathens) which met together at <hi>Fairford</hi> on the Lords Day in private, in oppoſition to the publicke worſhip of God; and thoſe that met at <hi>Brokington,</hi> on the third of <hi>June,</hi> where was, thoſe Famous Gifted Brethren, Brother <hi>Collet,</hi> and Brother <hi>Collins;</hi> and thoſe that met in the Market-place at <hi>Stow,</hi> to heare him whom the Author ſtiled, <hi>John Belcher</hi> (as if he be not wor<g ref="char:EOLhyphen"/>thy to be one of the <hi>Brotherhood,</hi> as well as the other, and is not as precious, an humble, and tender-hearted man, as Brother <hi>Collet.</hi>)</p>
+               <p>But how theſe can be thought to be the only <hi>Choſen people of God,</hi> I leave to any Rationall man, and true Chriſtian to Conſider of; being Men of Turbulent Spirits, preferring their own houſes before the Temple; Meetings in the Market-places, before our publicke Meetings in our Churches; The Jewiſh Sabbath, before the Chriſtian; being enemies to all Ordained Miniſters, crying up themſelves to be the only Propagators of the Goſpel, who under the name of Truth, have brought in damnable hereſies, and by good words, and faire ſpeeches, deceive the hearts of the ſimple: Surely, if theſe be the only <hi>choſen people of God,</hi> God hath precious children indeed.</p>
+               <p>And as for the Armie of Froggs and Toads, which the Infor<g ref="char:EOLhyphen"/>mer ſaith, he ſaw at <hi>Fairford,</hi> and the ſudden death of the Clarks Daughter when they met at <hi>Brokington;</hi> how they can be thought to be examples of Gods Judgements, on thoſe the Informer nominateth, putteth me to a ſtand.</p>
+               <pb n="6" facs="tcp:119255:9"/>
+               <p>Indeed, The Author ſpeaking of his Relation, which he pub<g ref="char:EOLhyphen"/>liſhed, ſaith, that it is ſufficient to reclaim any rational man whatſoever: Had the Relation been (as he calleth it) a perfect Relation, he might have had the better hopes of it; but that Lyes ſhould reclaime any rational man whatſoever, I muſt beg the Au<g ref="char:EOLhyphen"/>thors pardon, not to believe: And the fulneſſe of both which ſtories. I come now to preſent to the eyes of all rational men to conſider of. The true Accompt whereof, is as follow<g ref="char:EOLhyphen"/>eth.</p>
+               <div n="1" type="section">
+                  <head>I. <hi>Concerning the Authors Relation about the</hi> Frogs <hi>and</hi> Toads, <hi>which he reporteth to have ſeen at</hi> Fairford.</head>
+                  <p>THe Author in the beginning of his Relation telleth the world of a company of Chriſtians met together, (as if there were no Chriſtians in the Town but them) their buſineſſe being to ſerve God, according to their preſent apprehenſions, (what zealous worſhippers of God be theſe, who having no rule for their wor<g ref="char:EOLhyphen"/>ſhip, but their preſent apprehenſions, muſt needs differ therein as their apprehenſions differ) <hi>at the place before named,</hi> that is, I conceive as the Inſcription telleth us, at <hi>Fairford,</hi> but whither the Church or Houſe was their meeting-place, the Informer is ſilent, but ſure it muſt be at the houſe of ſome knowing eminent Chriſti<g ref="char:EOLhyphen"/>an, becauſe the Informer ſaith there was none but a company of Chriſtians met together: Not the Church, the houſe of prayer (where is the preſence of the bleſſed <hi>Trinity, God in his Son, by his Spirit,</hi> The preſence of Gods Angels, the preſence of his Miniſter, and of the greater number of people aſſembled to enjoy his Ordinances, whoſe Ranks being likened to Beds of Spices, which is an Holy Place, ſet apart for Holy uſes, wherein the pow<g ref="char:EOLhyphen"/>er and glory of an holy God is to be ſeen and felt) that is an abo<g ref="char:EOLhyphen"/>mination to thoſe Chriſtians.</p>
+                  <p>The which Meeting being collected (not by the noiſe of Bells but of ſome Tinckling Cymbals) was diſturbed by the rude mul<g ref="char:EOLhyphen"/>titude, who were (as I am informed) little children, whoſe uſage muſt needs be cruel, uncivil, and dangerous; ſo dangerous it ſee<g ref="char:EOLhyphen"/>meth
+<pb n="7" facs="tcp:119255:9"/>to be, that nothing but a <hi>Juſtice of the Peace</hi> could appeaſe the wrath and fury of thoſe children, to whom ſome zealous per<g ref="char:EOLhyphen"/>ſons repaired (whoſe Reſidence was nigh) for his Aſſiſtance.</p>
+                  <p>But the <hi>Justice</hi> (ſaith he) being encouraged thereunto by the <hi>Lord</hi> of the Town (differing from them in Judgement) was ſo far from aſſiſting them, as that he rather ſpake hardly unto them by way of threatning.</p>
+                  <p>Obſerve here the tender Conſciences of theſe zealous perſons; who though they are over-grown with an <hi>Anti-Magiſtraticall Jaundice,</hi> having envious and implacable eyes againſt Magiſtracy, and are men of ſuch high minds and heady paſſions, giddy ſpirits, and popular principles, that they are impatient of any thing Au<g ref="char:EOLhyphen"/>thoritative, yet will ſtorm if the <hi>Juſtice</hi> deny to them his Aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+                  <p>But who is this <hi>Justice</hi> that dare be ſo bold as to diſcounte<g ref="char:EOLhyphen"/>nance theſe Zealots? and who is that <hi>Lord</hi> of a Town, that will not vail Bonnet to theſe Pleberans?</p>
+                  <p>Though they are both famouſly known in their County, and elſe-where, yet they are not here named, and as I conceive out of malice, That thoſe <hi>(Juſta parentaliae)</hi> praiſes which all that know them, give (as moſt due) to their accompliſhed worth, might not give check to their Demonial Malice, and unjuſt Calumniati<g ref="char:EOLhyphen"/>ons.</p>
+                  <p>As for the <hi>Justice of Peace;</hi> He is very well known to be a lover of Juſtice, and of tender Conſcience, in the execution of his Office, in the diſtribution of Juſtice: And as concerning this particular (his denying of Juſtice to theſe Zealots who made Application to him) I know, as he did not approve of their irre<g ref="char:EOLhyphen"/>gular meetings, being done in oppoſition to our publick <hi>Aſſem<g ref="char:EOLhyphen"/>blies,</hi> ſo neither did he of the rudeneſſe of the children, having no Law to countenance them; Whoſe care for the adminiſtration of Juſtice was proportionable to the Offenders, and offence, and as for his <hi>ſpeaking hardly to them, I dare behold to ſay, that he rather hardly ſpake to them that way.</hi>
+                  </p>
+                  <p>As for the <hi>Lord</hi> of the Town, though his obedience to the word of God, Loyalty to Soveraign power, and love to his Country, would never admit him to countenance ſuch Meetings, yet I know ſuch is his zeal to Juſtice, and his inclination to peace, that
+<pb n="8" facs="tcp:119255:10"/>he will neither promote diſturbances, or by any encouragement give any ſtop to the execution of Juſtice, knowing that Juſtice will in its due time find them out.</p>
+                  <p>And this I am bold to certifie the world thereof, being a man very well inſtructed in the knowledge of thoſe <hi>Worthy Gentlemen,</hi> as having ſpent ſince theſe late Revolutions of times, ſome time in the execution of my Miniſterial Office, in that Town of <hi>Fair<g ref="char:EOLhyphen"/>ford;</hi> ſo that the ſting of thoſe Calumniations that is thruſt in their Reputations, can never wound them, who have in their Country ever lived, live, and no doubt ſo long as God permits life, will live in their deſerved Reputations, for their Loyalty to their <hi>So<g ref="char:EOLhyphen"/>veraign,</hi> zeal to Juſtice and goodneſſe: Silly therefore is the charge which this Phanatick have drawn up againſt theſe <hi>Worthy Gentlemen</hi> (which though it be no wonder in him, or any other of his Tribe) yet I will aſſure thee <hi>(Reader)</hi> is one of his groſſe lyes.</p>
+                  <p>The other is worſe concerning the <hi>Progs</hi> and <hi>Toads,</hi> which he calleth the judgement of God ſhewed on unrighteouſneſſe and ungodlineſſe. Though there might have been a great number of ſmall Frogs and Toads lie upon the ground, and yet no wonder to ſee them, or judgement on the Town by reaſon of them, they ha<g ref="char:EOLhyphen"/>ving not a perſonal but equivocal Generation, as fallen in Rain from the Clouds, being before drawn up in Attomes, and genera<g ref="char:EOLhyphen"/>ted by the heat of the Sun, and ſo no miracle, being a work not ſur<g ref="char:EOLhyphen"/>paſſing the whole power of created nature;
+<note n="*" place="margin">
+                        <hi>Miraculum proprie quod fit preter ordi<g ref="char:EOLhyphen"/>nem totius na<g ref="char:EOLhyphen"/>turae.</hi> Aquin:</note> Yet there was no ſuch Spectacle: The Informer might ſee at that time of year Frogs and Toads enough, by reaſon of ſo many Ponds, Ditches, and Moo<g ref="char:EOLhyphen"/>riſh places as be about <hi>Fairford,</hi> and need not ſtand in any by<g ref="char:EOLhyphen"/>place to behold them; but not ſuch well Diſciplined Frogs and Toads, as can march in Rank and File, turn to the right, or left hand, keep Court of Guards (as the Informer telleth us they did) about the houſe of the Lords of the Town, and the houſe and per<g ref="char:EOLhyphen"/>ſon of the ſaid <hi>Justice,</hi> and make at laſt a ſudden retreat, that is, from the houſe of the ſaid <hi>Juſtice;</hi> (They may be till this time upon duty, about and in the houſe of the <hi>Lords</hi> of the Town for any ſatisfaction that the Informer giveth us, concerning their quit<g ref="char:EOLhyphen"/>ting his houſe.)</p>
+                  <pb n="9" facs="tcp:119255:10"/>
+                  <p>Indeed for the great Army of Frogs and Toads, for their order<g ref="char:EOLhyphen"/>ly march, for their ſtrict obſervance of duty, for the reproving of the ſaid <hi>Justice</hi> by his Maid-ſervant, for the impreſſion that her expreſſion left on her Maſter, for the vaniſhing of the ſaid Frogs and Toads upon his countenancing thoſe Zealots, and diſcoura<g ref="char:EOLhyphen"/>ging and puniſhing the rude multitude; The world is extreamly beholding to the Authors invention, being very glad that neither he or his brethren, have any other materials left them then lyes to build their <hi>Babel.</hi> Let this Relation travel whither it may, as it may travel farre, having a Pamphlet for its paſſe, yet it carrieth enough with it, as doth give all true Chriſtian hearts occaſion to ſuſpect it, and needed not be followed by the <hi>Hue</hi> and <hi>Cry</hi> of a loud, and general voice of contradiction.</p>
+                  <p>But though the Relator faineth an Army of Frogs, which had received a Commiſſion from the Allmighty to plunder the houſes of the Lord of the Town, and the ſaid <hi>Juſtice,</hi> or to bring them away Priſoners upon refuſing of doing Juſtice upon the multitude that diſturbed thoſe Fanaticks at <hi>Fairford;</hi> Yet I ſhall without hypocriſie certifie the world. That the Town of <hi>Fairford</hi> (though it hath been freed from the <hi>Aegyptian</hi> plague of Frogs, yet it hath not been freed from the general plague of <hi>England</hi>) Some ſpirits came often there in the likeneſſe of Frogs.</p>
+                  <p>See in <hi>Rev:</hi> 16.13. what St. <hi>John</hi> ſaw, when the ſixth Angel powred out his Vial on the great River <hi>Euphrates,</hi> it was three <hi>unclean ſpirits like Frogs, came out of the mouth of the Dragon, out of the mouth of the Beaſt, and out of the mouth of the falſe Prophet.</hi> Where obſerve the principal Agents are the Dragon, the Beaſt, and the falſe Prophet: By the Dragon is meant Satan himſelf the father of lyes; By the Beaſt, Antichriſt with his whole body; By the falſe Prophet, any falſe Teachers belonging to the Kingdome of Antichriſt: The three unclean ſpirits that were belched out of their mouths were</p>
+                  <p>Firſt, The ſpirit of pride which came out of the mouth of the Devil, the Dragon.</p>
+                  <p>Secondly, The ſpirit of blaſphemy, which came out of Anti<g ref="char:EOLhyphen"/>chriſt, the Beaſt.</p>
+                  <p>Thirdly, The ſpirit of a lye, which came out of falſe Tea<g ref="char:EOLhyphen"/>chers, which belongeth to the falſe Prophets.</p>
+                  <pb n="10" facs="tcp:119255:11"/>
+                  <p>The which unclean ſpirits are ſaid to be like unto Frogs; Now what St. <hi>John</hi> ſaw come out of the mouth of the falſe Prophets, we may ordinarily at <hi>Fairford,</hi> as well as in other places of the Coun<g ref="char:EOLhyphen"/>ty, ſee alſo; Namely the ſpirits of lyes, and that in the likeneſs of Frogs, the which unclean ſpirits reſembleth Frogs in theſe parti<g ref="char:EOLhyphen"/>culars.</p>
+                  <p>Firſt,
+<note place="margin">Ranae ex limo natae.</note> Frogs have their beginning and life out of filthy Ponds, and Pools, and do moſt delight in filthy Ponds and Pools, whence they had their beginning and life; So doth theſe unclean ſpirits which are like Frogs, fetch their life and beginning from the Ponds and Pools of filthy errors, and ſtinking abominations of doctrine, and do continually delight in thoſe moſt filthy Ponds, and Pools of corrupt doctrine, out of which they fetch their be<g ref="char:EOLhyphen"/>ginning and life.</p>
+                  <p>Secondly,
+<note place="margin">Called by the Poet, <hi>Ranae Clamoſae.</hi>
+                     </note> Frogs doth importunately croak, and make a noiſe about the Ponds, and mooriſh places where they are, being cal<g ref="char:EOLhyphen"/>led therefore <hi>Ranae,</hi> from the Hebrew word, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> which is <hi>vehemen<g ref="char:EOLhyphen"/>ter exclamare;</hi> So doth theſe unclean ſpirits (like Frogs) croak in thoſe places where they frequent, by ſounding out their errors and hereſies, with importunate clamors, haunting the poor ſimple peo<g ref="char:EOLhyphen"/>ple with loud and inceſſant importunity.</p>
+                  <p>Thirdly,
+<note place="margin">
+                        <hi>Limoſo<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> novae ſaliant in Gur<g ref="char:EOLhyphen"/>gite Ranae.</hi> Ovid.</note> Frogs do hop and skip from place to place; And there<g ref="char:EOLhyphen"/>fore a Frog is called in Saxon, <hi>Hopper ab Huppen, ſaltare,</hi> to leap or skip, becauſe he doth hop and skip about with his four feet; So do theſe unclean ſpirits skip and hop about the Countrey, They are now here, now there, to day in this place, to morrow in another; Nay before their Kingdom ſhall be aboliſhed, they will hop far to propagate.</p>
+                  <p>Fourthly,
+<note place="margin">
+                        <hi>Rana anima amphibium coaxans.</hi> Varro.</note> Frogs are both for water and land; <hi>Varro</hi> ſo deſcribes a Frog to us to be an animal which croaketh on the water, as well as on the land; ſo do theſe unclean ſpirits (being for water as well as land) they live and croak in both places; when their Proſelites have any need of waſhing of their foul bodies, then ye hear them croak on the waters; when they are willing to eat their broken bread, then they croak on the Land.</p>
+                  <p>Fifthly,
+<note place="margin">
+                        <hi>Ranae apibus mimicae.</hi> Plin:</note> Frogs are great enemies to the labouring Bees that gathereth Honey; ſo are theſe impure ſpirits like Frogs, ſore ene<g ref="char:EOLhyphen"/>mies both to the true Preachers of the Goſpel, and eſtabliſhed
+<pb n="11" facs="tcp:119255:11"/>Chriſtians, the true lovers of the Goſpel, which like painful Bees yeeldeth and gathereth the Honey of the truth, and by medita<g ref="char:EOLhyphen"/>tion and conferences franieth their Honey-Combes within their Hives.</p>
+                  <p>Sixthly,
+<note place="margin">
+                        <hi>Ranae ictus apum non ſenti<g ref="char:EOLhyphen"/>unt.</hi> Plin.</note> Frogs have ſuch skins as they feel not the ſtinging of Bees; no more do theſe impure ſpirits, ſo ſingular they are in their own opinions, and ſo hardned in their Reſolutions, that the ſharpeſt ſting of reproof, from thoſe labouring Bees (Gods Mini<g ref="char:EOLhyphen"/>ſters) cannot make them ſenſible of their errors.</p>
+                  <p>Seventhly,
+<note place="margin">
+                        <hi>Ranae linguae mirus in Magi<g ref="char:EOLhyphen"/>cis uſus.</hi> Plin.</note> The Inchanters and Witches maketh great uſe of the tongue of a Frog; ſo theſe impure ſpirits which are belched out of the mouth, like the tongues of Frogs, are of wonderful uſe for the inchanting of the hearts of ſimple people, for theſe being the Prophets that have ſweet tongues, mentioned <hi>Jer.</hi> 23.34. <hi>Who having taught their tongues to ſpeak lyes, with ſweet words and fair ſpeeches, deceiveth the hearts of the ſimple;</hi> So that knowing the Inchanters, we need not ask our ſimple people, as St. <hi>Paul</hi> did the Galatians, <hi>O ye fooliſh Galatians! who hath bewitched you from knowing the truth?</hi>
+                  </p>
+                  <p>Eightly, The uſe of Frogs is that they may be inſtruments which God uſeth ſometimes for the puniſhment of wicked men: ſo thoſe Frogs which did cover the Land of <hi>Aegypt,</hi> were ſent to take revenge on the ſins of the <hi>Aegyptians;</hi> theſe impute ſpi<g ref="char:EOLhyphen"/>rits which reſembleth Frogs, is a greater puniſhment to the peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> in that they have the ſouls of people, which God permitteth in his Church, not only for the good of his Church (they being like the Nations which God left to prove <hi>Iſrael,</hi> Judg. 3.1.) but for the juſt puniſhment of wicked men, who will not obey and ſtick to the truth, 2 <hi>Theſſ.</hi> 2.11.</p>
+                  <p>Ninthly, The plague of Frogs, was the next puniſhment upon the <hi>Aegyptians,</hi> to their waters which were turned into blood; ſo theſe impure ſpirits, which at this time, like that <hi>Aegyptian</hi> plague of Frogs covereth the Land, followed our bloody waters of afflicti<g ref="char:EOLhyphen"/>on; No ſooner were our waters turned into blood, but theſe im<g ref="char:EOLhyphen"/>pure ſpirits like Frogs ſprang up, and filled the Land, nay we find them in our ſtreets, in our market-place, in our very houſes.</p>
+                  <p>Theſe (not ſuch Frogs as the Relator ſpeaketh of) are often ſeen at <hi>Fairford,</hi> The which impure ſpirits in the likeneſſe of
+<pb n="12" facs="tcp:119255:12"/>Frogs, are often to be ſeen hopping and skipping about their ſtreets, nay they are known to creep into their houſes, often fil<g ref="char:EOLhyphen"/>ling the ſame, but not the houſes of the Lord of the Town, or of; the Juſtice adjacent (as the Relator expreſſeth) their houſen are better diſciplined then to be harbor for ſuch filthy vermine; but the houſen of ſome men of giddy and unſtable brains, whom theſe Inchanters have bewitched with their ſweet tongues, whoſe houſes they make as filthy Ponds and Pools of ſtinking errors, and vile abominations of doctrine, wherein they do moſt delight, and where they do importunately croak, whoſe croaking noiſe did in<g ref="char:EOLhyphen"/>vite the children of the Town to enter into one houſe (who be<g ref="char:EOLhyphen"/>came like a ſtone caſt into a Ditch where multitude of Frogs are) making them for that time ceaſe their croakings, The which judg<g ref="char:EOLhyphen"/>ment the Lord did not ſend upon <hi>Fairford</hi> for injuſtice, as the Relator ſaith, but for their not receiving the love of the truth: Mark that place, 2 Theſſ. 2.11. <hi>For this cauſe God ſhall ſend them ſtrong deluſions, that they ſhould beleeve a lye: For this cauſe,</hi> what is that? Mark the precedent words, <hi>becauſe they received not the love of the truth that they might be ſaved.</hi>
+                  </p>
+                  <p>And this is not a peculiar judgement on <hi>Fairford</hi> alone: We have ſuch filthy Ponds and Pools of corrupt Doctrine at <hi>Norleach,</hi> wherein are often to be heard the croakings of ſuch Frogs, but they are not ſo troubleſome to the ears of many at <hi>Norleach,</hi> as they are at <hi>Stow, Burton</hi> on the water, and other places adjacent.</p>
+                  <p>But indeed not a rational man but may perceive this judgment to be a general judgement; Men have ſo fallen away from truth, <hi>that they are given up to ſtrong deluſions, to believe lyes;</hi> So that theſe impure ſpirits in the likeneſs of Frogs, may be ſeen hop<g ref="char:EOLhyphen"/>ping, and heard croaking, in moſt places of the Land.</p>
+                  <p>But my hope is; That as the plague of Frogs on the <hi>Aegypti<g ref="char:EOLhyphen"/>ans</hi> was not an everlaſting plague, but removed by the prayer of <hi>Moſes,</hi> Exod. 8.12. So neither this puniſhment of Frogs on <hi>England,</hi> but may in time be removed from the Nation, by the endeavours and prayers of ſound Chriſtians.</p>
+                  <p>Prayer which is <hi>Vis Deo grata,</hi>
+                     <note place="margin">Tertul:</note> is of great efficacy with God, for the removal of this judgement, and therefore let all Chriſti<g ref="char:EOLhyphen"/>ans pray.</p>
+                  <pb n="13" facs="tcp:119255:12"/>
+                  <p>The voyce of the Goſpel is likewiſe of great force to ſtop the mouths of theſe kind of Frogs, though never ſo clamarous:
+<note place="margin">Veritas menda<g ref="char:EOLhyphen"/>cio longè forti<g ref="char:EOLhyphen"/>or.</note> Mini<g ref="char:EOLhyphen"/>ſters muſt now (if ever) appear for the truths of God, and be able to convince the Gain-ſayer, and the people muſt labor to be well <hi>grounded in the Scripture, which is profitable for doctrine and re<g ref="char:EOLhyphen"/>proof;</hi>
+                     <note place="margin">2 Tim. 3.16.</note> And both Miniſters and People muſt be valiant for the truth, <hi>and contend earneſtly for the Faith which was once delivered to the Saints.</hi>
+                  </p>
+                  <p>The Law of the Land is of no ſmall force to ſtop the hoppings from place to place, to ſilence the croakings of theſe Frogs; Let but Magiſtrates, which for their Office, in Scripture are called maſters of reſtraint, but ſhew their zeal for God in the execution of Juſtice on ſuch troublers of <hi>Iſrael,</hi> and we ſhall find them ſoon to vaniſh.</p>
+                  <p>The Informer faineth the vaniſhing of thoſe Frogs and Toads (which he fained likewiſe to be at <hi>Fairford</hi>) to be upon the <hi>Juſtice of the Peace</hi> his countenancing the Zealots, and diſcountenancing and puniſhing the Diſturbers.</p>
+                  <p>If our Magiſtrates would but countenance thoſe that are Lovers of peace and truth, and diſcountenance and puniſh thoſe that are the Diſturbers of peace and truth; Theſe hopping Frogs would quickly ſtop their journeys, and theſe croaking Frogs ſoon change their notes.</p>
+                  <p>That the eyes of the Inhabitants of <hi>Fairford,</hi> and all other pla<g ref="char:EOLhyphen"/>ces (which are viſited with theſe impure ſpirits, which cometh to them in the likeneſs of Frogs) may behold no more ſuch horrid Spectacles, that their ears may be no more afflicted with their odious croakings, that their converſations may not be diſturbed with their hoppings and crawlings.</p>
+                  <closer>FIAT J<g ref="char:V">Ʋ</g>STITIA.</closer>
+               </div>
+               <div n="2" type="section">
+                  <head>II. <hi>Concerning the Authors Relation about the death of the</hi> Clarks <hi>daughter at</hi> Brokington.</head>
+                  <p>COncerning the Meeting at <hi>Brokington;</hi> I find by inquiry, that at the time and place expreſſed there was ſuch a meet<g ref="char:EOLhyphen"/>ing, when and where was B. <hi>Collet,</hi> and B. <hi>Collins,</hi> and ſome from
+<pb n="14" facs="tcp:119255:13"/>
+                     <hi>Stow,</hi> and other places, but <hi>John Belcher</hi> I find by the Authors relation was not there; and that <hi>precious humble tender-hearted man</hi> (Brother <hi>Collet</hi>) was in exerciſe, and that <hi>Sarah</hi> the daughter of <hi>Thomas Woodward,</hi> Clark of <hi>Senington,</hi> about 17 years of age was there with her mother, and that the Maid did dye there ſuddenly, is a truth which cannot be denyed.</p>
+                  <p>But that the hand of the Lord of Hoſts went out againſt that Daughter for her oppoſing, and reviling them, and uttering hard ſpeeches againſt them, their meetings and wayes, is as far from truth, as theſe troublers of <hi>Iſrael</hi> are from peace.</p>
+                  <p>For both the Daughter and the Mother to whom the Relator attributeth oppoſition, and reviling, are known to be ſo far guilt<g ref="char:EOLhyphen"/>leſſe of it, as that they are great Lovers of theſe perſons, great approvers of their meetings and wayes; Nay the Pa<g ref="char:EOLhyphen"/>riſh Clark himſelfe, the Maids Father (as I am informed) is one of their Followers, who performeth his Office at Church, and when he cometh Home, performeth his Devotion with them.</p>
+                  <p>And as for the Demeanor of the Daughter at the preſent exer<g ref="char:EOLhyphen"/>ciſe, ſhe was obſerved to behave her ſelf with great attention, and devotion, and ſolemn ſilence, not a word ſhe uttered, nor geſture expreſſed ſhe, as could plead her guilty, either of any diſlike in her ſelfe, or any diſturbance of the Exerciſe; ſo that I wonder at the groſſe impudency of the Informer, that dare excommunicate her out of the number of thoſe <hi>choſen Ones,</hi> and publiſh her to the world as a Reviler of thoſe <hi>choſen people of God.</hi>
+                  </p>
+                  <p>Now for the manner of her death, it was thus; The Clarks Daughter having ſome children to look unto, which were without Doors, was bidden by the wife of one <hi>Thomas Timbrill,</hi> to go forth to look to the children, ſhe went forth and fetched them and came in, and gave a ſudden ſcreek, and fell down dead be<g ref="char:EOLhyphen"/>fore them all, whoſe Corpſe after ſome rubbing and chafing (there being no appearance of life) was carried into the paſſage, at what time (as it is related) came that Eſquire Mr. <hi>Heiden,</hi> that led that party of the Troop, to diſturb their meetings; and the death of the Maid having diſſolved them, he without any injury done them, forbad only their diſorderly meetings for the time to come, and departed.</p>
+                  <pb n="15" facs="tcp:119255:13"/>
+                  <p>This I find to be the truth, and to this I have the atteſtation of ſome of thoſe neighbours who were preſent, and of many others, who (ſince the publiſhing of the death of this Maid as a wonder<g ref="char:EOLhyphen"/>ful example of Gods Juſtice) by them have of the truth hereof been informed.</p>
+                  <p>For my part, I dare not ſay that ſhe was in her ſudden death, made any example at all of Gods Juſtice, no otherwiſe then as death is the wages of ſin; but an example of the frail, and brittle condition of man, whoſe breath is in his noſtrils, which may ſud<g ref="char:EOLhyphen"/>denly vaniſh; and therefore Brother <hi>Collins</hi> anſwered well, when Mr. <hi>Heiden</hi> charged them with the death of the Maid, <hi>We have not</hi> (ſaid he) <hi>killed her, but the Lord hath done it, in whoſe hands is your breath and ours;</hi> wherein Brother <hi>Collins</hi> doth ſeem to dif<g ref="char:EOLhyphen"/>fer much from the Relators cenſure, who maketh her to us, not an example of Gods Juſtice, but a Spectacle of mortality, to uſher us in the School of death, that we may allwayes be watchfull in an holy preparation for our change.</p>
+                  <p>As for thoſe that doth look upon her death as an example of Gods Juſtice on the Maid; I think them to be of the ſafer judg<g ref="char:EOLhyphen"/>ment, that conclude her to be an example of Gods Juſtice, for frequenting the Meetings of ſuch Impoſtors, who under the co<g ref="char:EOLhyphen"/>lour of ſpreading the Goſpel, corrupt the pure Doctrine of the Goſpel by their vile errors, and baſe opinions, and inſtead of ſpreading the light, fight againſt it, by their deſpiſings of the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel, the holy Ordinances of Chriſt, and of all thoſe that deſireth to walk in the light thereof; rather then an ex<g ref="char:EOLhyphen"/>ample of Gods Juſtice for revilings and hard ſpeeches againſt them, who was a zealous follower of them, and out of whoſe mouth was heard no ſuch reproofs.</p>
+                  <p>And as for that wiſe and zealous Oration of the Clark her Fa<g ref="char:EOLhyphen"/>ther, who after that time ſpake (as he did before) ſaying, <hi>Theſe are the People of God,</hi> were the Clark ſo gifted a Brother as Brother <hi>Collins,</hi> as <hi>precious humble tender-hearted man</hi> as Brother <hi>Collet,</hi> as great an Oracle as <hi>John Belcher,</hi> it would as little evidence his Daughters death to be an example of Gods Juſtice, as <hi>canonize them for the people of God.</hi>
+                  </p>
+                  <pb n="16" facs="tcp:119255:14"/>
+                  <p>And as for their much peace, and freedome from Moleſtations in their Meetings to heare <hi>John Belcher</hi> in <hi>Stow,</hi> in the Market<g ref="char:EOLhyphen"/>place, and other places, which they have enjoyed (as the Infor<g ref="char:EOLhyphen"/>mer ſaith) ſince this remarkable hand of God; I beleeve that neither <hi>John Belcher,</hi> nor that gifted man B: <hi>Collins,</hi> nor that precious humble tender-hearted man B: <hi>Collet,</hi> will attribute it (though the Informer doth) as an effect which followed upon the Death of the Clarkes daughter.</p>
+                  <p>But being as Full of State-pollicy, as they are of ſpirituall Revelations, I know they cannot but conclude their peace and and freedome, to proceed either from the wiſdome of the State, forbidding all publicke diſturbances, and the Loyalty of peace<g ref="char:EOLhyphen"/>able Subjects, who in their converſations ſubſcribes to Govern<g ref="char:EOLhyphen"/>ment, or from the clemency of the State, by conniving (not approving) of their ſeparations, and diviſions; upon which cle<g ref="char:EOLhyphen"/>mency of the State, they have mightily improved themſelves, who muſt know, they are not favoured, though not puniſhed, who may have (though the State ſitteth ſilent for a while) in a ſhort time by the prudence of the State, their errors ſet in or<g ref="char:EOLhyphen"/>der before their eyes.</p>
+                  <p>But their great Boaſting of their much peace, and Freedome, that they enjoy now in Market-places, and other places, putteth me in mind of the difference between Loyall Subjects, and Re<g ref="char:EOLhyphen"/>bellious Sectaries; The Sectaries without diſturbance have now their Freedome to publiſh their errors and lyes in the very Mar<g ref="char:EOLhyphen"/>ket-places, but we could not heretofore enjoy our Liberties in our Churches, to publiſh Gods truths without high diſtur<g ref="char:EOLhyphen"/>bances.</p>
+                  <p>And ſeeing they have ſo much peace and freedome from Mo<g ref="char:EOLhyphen"/>leſtations in the Market-places, I would they would take this Counſell from one that wiſheth their converſion, not their de<g ref="char:EOLhyphen"/>ſtruction, their ſafety, not their perill; that neither the Relator that boaſteth ſo much of freedome, neither any of the Brother<g ref="char:EOLhyphen"/>hood that doth enjoy it, uſe any more their peace to provoke warre, by blowing up all Coales of diſſentions amongſt us, and their Freedome to ſet Rebellion againe in a Blaze, to fire both Church and State; If ſo, Let them be men as well Gifted as Brother <hi>Collins,</hi> as precious humble tender-hearted men as Bro<g ref="char:EOLhyphen"/>ther
+<pb n="17" facs="tcp:119255:14"/>
+                     <hi>Collet,</hi> and have as much Freedome in the Market-place of <hi>Stow</hi> as <hi>John Belcher,</hi> The hand of Juſtice may ſoone find them out; when by the hand of the Magiſtrate, God may in the very Market-places, where they proclaime their Rebellion, make them more evident Examples of Gods Juſtice for their Rebellion, then was the ſudden death of the Clarkes Daughter of <hi>Broking<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> for her revilings, who was a Siſter, a Diſciple, one that againſt them was not heard to open her Mouth.</p>
+                  <p>Now Reader, If thou beeſt a Rationall man, whom the Infor<g ref="char:EOLhyphen"/>mer by his Relation would reclaime, and to whoſe Judgement I have recommended this Narrative, thou canſt not but find, the Newes from <hi>Gloceſter,</hi> to be ſtrange, but not true; and the Au<g ref="char:EOLhyphen"/>thor (who ere it be) not to be (as he ſtileth himſelfe) <hi>The true Informer,</hi> but an <hi>Hypocriticall Lyer.</hi>
+                  </p>
+                  <p>And as his Notorious Lyes proveth him a Groſſe Hypocrite, who hath ſpoken theſe Lyes through Hypocriſie, ſo doth his Concluſion lay open his Hypocriſie to the view of any indifferent Reader.</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>Laſtly, Concerning the Groſſe Hypocriſie of the Author in the Concluſion of his Pamphlet.</head>
+               <p>THe Relator telleth us, that much more was expreſſed, both in the Letter, and by ſundry perſonall evidences, this can<g ref="char:EOLhyphen"/>not be applied to the Newes from <hi>Fairford;</hi> there he certifieth us, that he was an eye-witneſſe, being in a By-place, to ſee what would be the iſſue of thoſe Froggs and Toads: and here he ſpeaketh of a Letter, wherein ſomewhat and much more was ex<g ref="char:EOLhyphen"/>preſſed; (And ſaith he, alſo by ſundry perſonall evidences) but this I am ſure, had the Relator any Greater evidences of cruel<g ref="char:EOLhyphen"/>ties and indignities offered by ſuch ſpirits as he ſpecifieth, they could not have eſcaped the preſſe, herein being little ſaid (the truth being uncaſed) to cry up any cruell uſage of them.</p>
+               <p>Now whereas the Author and Printer (who are ſaid to deli<g ref="char:EOLhyphen"/>ver only the Truth in Generall (when they have branched out the Lying Wonders in particular circumſtances) doe deſire a kind acceptance of the Reader, I cannot ſee how it can be gran<g ref="char:EOLhyphen"/>ted by any Reader, who is a Lover of Truth; but only by ſedu<g ref="char:EOLhyphen"/>ced
+<pb n="18" facs="tcp:119255:15"/>perſons, ſuch as are fettered to other mens vile opinions, and held faſt under their power; to whom I crave to urge that reproofe which the Apoſtle urged to the <hi>Corinthians,</hi> 2 Ep: 11.19, 20. <hi>Ye ſuffer fooles gladly; ye ſuffer, if a man bring you into bondage, if a man devoure you;</hi> ſo ſay I, to all ſuch ſeduced per<g ref="char:EOLhyphen"/>ſons, <hi>ye ſuffer fooles gladly,</hi> to worke on your affection, to faſten on your perſons, to ſpoyle you, to carry you away from the Truth, as a Beare, Wolfe, or Lyon, carry away their prey; becoming as Leopards and Blackmoors, whoſe ſpots and uglineſſe of baſe o<g ref="char:EOLhyphen"/>pinions, can never be waſhed away, who have cauſe to feare their owne condemnation; for when God ſhall ſend ſuch ſtrong deluſions, as ſhall produce ſuch an effect in the hearts of men, as to cauſe them to beleeve a lye; the end is, <hi>that they might be damned,</hi> 2 Theſ. 2.11.</p>
+               <p>But though we cannot grant a kind Acceptance of theſe no<g ref="char:EOLhyphen"/>torious Lyes, yet we may embrace the counſell they give us, which is to amend that which is amiſſe, either in the Relation which is full of lyes, or in our ſelves being full of Frailties.</p>
+               <p>For the amending of what I have found amiſſe in the Relation, I have performed my endeavour, by bringing theſe lyes to the Light of Truth, whereby Truth may be diſcerned from errour, and for the amendment of what we find amiſſe in our ſelves, let us daily begge the Aſſiſtance of Gods Spirit, to enlighten our eyes in the knowledge of the Truth, and to lead us into all Truth, and preſerve us therein by his Allmighty power even unto Sal<g ref="char:EOLhyphen"/>vation.</p>
+               <p>Here I ſhould have finiſhed, but that the Relator or Printer, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both, hath given me cauſe of Jealouſie, to conceive that as they will not owne me for their Fellow-Chriſtian, ſo I dare not own them for my Fellow-Subjects, who ſeemeth by their unuſu<g ref="char:EOLhyphen"/>all phraſe in their Concluſion, not to owne King <hi>Charles</hi> for their King, but ſome other King to Raigne over them.</p>
+               <q>GOD SAVE OUR KING.</q>
+               <p>BY the phraſe [<hi>Our</hi> and not <hi>The</hi>] ſome are of the opinion, they meane not King <hi>Charles,</hi> to whom they are apparent Enemies, but <hi>Chriſt,</hi> whom they make a cloake for their wicked<g ref="char:EOLhyphen"/>neſſe;
+<pb n="19" facs="tcp:119255:15"/>Though I am of opinion, that there be many that in this Nation owneth no other King but Chriſt, yet ſhould they meane him here, they could not but diſcover a great deale of ignorance, in thus praying for him, That God would ſave him, who is our Alone Saviour.</p>
+               <p>But I am more apt to beleeve, that ſeeing This Government doth not pleaſe them, and they expect ſome Alteration of Go<g ref="char:EOLhyphen"/>vernment, of which ſome are very confident, expecting through freſh diviſions to have the ſword againe in their hands, of which they ſay, they will make better uſe then they have done; That they meane ſome eminent Commander, whom God in time may raiſe up for their protection in their licentious practiſes. But God who hath already Blaſted their deſignes, I hope will ſo order, by his powerfull providence, the Affaires of this Nati<g ref="char:EOLhyphen"/>on, that ſuch cruell and Tyrannicall Spirits, ſhall be ſo farre from ſitting any more at Sterne in the Ship of this Common-wealth, as they ſhall for ever be kept under Hatches; And that this Our Gracious Soveraigne (whom the Lord miraculouſly hath preſer<g ref="char:EOLhyphen"/>ved, and reſtored to be a repairer of our breaches, and a reſtorer of our decayed paths; whoſe name was, is, and will be ever pre<g ref="char:EOLhyphen"/>cious, among his ſound-hearted and Loyall Subjects, and whoſe Princely Dignity is adorned with ſuch piety, Temperance, and humanity, as will be ſtedfaſt props to uphold his regall Authori<g ref="char:EOLhyphen"/>ty) ſhall ſit immoveable in his Throne, ſhining therein above all other men in a parcell of Gods Majeſty, by righteouſneſſe eſta<g ref="char:EOLhyphen"/>bliſhing his Throne, and by Judgement the Land,
+<note place="margin">Prov. 16.12. Prov. 29.4.</note> and ſo make us his Subjects by his wiſe Government a happy people, and his Kingdomes the glory of all Lands.</p>
+               <closer>GOD BLESSE KING <hi>CHARLES.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
